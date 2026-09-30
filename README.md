@@ -8,7 +8,7 @@
 
 Second-year Computer Science student @ Newcastle University with a focus on **Full-Stack** and **AI Development** projects. 
 
-Been working on AI and ML projects, [Codebase AI](https://github.com/ZainX38/Codebase-AI), and like to contribute to open source projects on my free time such as [Ollama](https://github.com/ollama/ollama) and also to low-level system projects, [Tilky Engine](https://github.com/BenBerke/Tilky-Engine).
+Been working on AI and ML projects, [Codebase AI](https://github.com/ZainX38/Codebase-AI), and like to contribute to open source projects on my free time such as [Ollama](https://github.com/ollama/ollama) and also to low-level system projects, T
 
 ---
 
@@ -22,7 +22,7 @@ Been working on AI and ML projects, [Codebase AI](https://github.com/ZainX38/Cod
 
 ## Open Source
 - [Ollama](https://github.com/ollama/ollama)
-- [Tilky Engine](https://github.com/BenBerke/Tilky-Engine)
+- T
 
 ## Tools I use
 

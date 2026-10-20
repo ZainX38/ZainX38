@@ -8,7 +8,7 @@
 
 Second-year Computer Science student @ Newcastle University with a focus on **Full-Stack** and **AI Development** projects. 
 
-Been working on AI and ML projects, [Codebase AI](https://github.com/ZainX38/Codebase-AI), and like to contribute to open source projects on my free time such as [Ollama](https://github.com/ollama/ollama) and also to low-level system projects, T
+Been working on AI and ML projects, [Codebase AI](https://github.com/ZainX38/CodebaseAI), and like to contribute to open source projects on my free time such as [Tilky Engine](https://github.com/BenBerke/Tilky-Engine)
 
 ---
 
@@ -19,10 +19,6 @@ Been working on AI and ML projects, [Codebase AI](https://github.com/ZainX38/Cod
 - [Neural Network](https://github.com/ZainX38/Neural-Network) - created a Neural Network from scratch using only raw Python and numpy
 - Prayer times device - a Raspberry Pi Zero 2W that calculates prayer times for Newcastle and plays the Adhan through a Bluetooth speaker
 ---
-
-## Open Source
-- [Ollama](https://github.com/ollama/ollama)
-- T
 
 ## Tools I use
 
